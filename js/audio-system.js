@@ -14,10 +14,10 @@
 const playlist = [
   {
     id:        'song1',
-    title:     'Song Title 1',
-    artist:    'Artist Name',
+    title:     'Sampai Jadi Debu',
+    artist:    'Banda Neira',
     file:      'music/song1.mp3',
-    cover:     'assets/music-cover/song1.jpg',
+    cover:     'assets/music-cover/song1.jpeg',
     startTime: 0,       // seconds — where playback begins
     endTime:   null,    // seconds — where it ends/loops (null = full track)
     loopStart: null,    // loop rewind point (null = startTime)
